@@ -1,5 +1,5 @@
 ---
-title: 404 - Not Found
+title:
 date: 2019-07-06 05:14:54
 ---
-<center>404 Not Found<center>
+<center><h2>404 Not Found</h2></center>
