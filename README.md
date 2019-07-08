@@ -1,1 +1,1 @@
-# myblog source files
+# myblog markdown files
