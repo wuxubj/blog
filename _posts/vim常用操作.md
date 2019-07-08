@@ -27,5 +27,5 @@ set smartcase   #大小写敏感
 /foo\C  #查找：大小写敏感
 ```
 按下n查找下一个，按下N查找上一个。
-参考：(在 Vim 中优雅地查找和替换)[https://harttle.land/2016/08/08/vim-search-in-file.html]
+参考：[在 Vim 中优雅地查找和替换](https://harttle.land/2016/08/08/vim-search-in-file.html)
 
